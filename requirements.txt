@@ -1,0 +1,12 @@
+sentence-transformers
+pandas
+numpy
+keras
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+pydot
+nltk
+streamlit
+tensorflow
